@@ -1,1 +1,1 @@
-# locationfinder app using bluetooth 
+# Location finder app using bluetooth signaling
